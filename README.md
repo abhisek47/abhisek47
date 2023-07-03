@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Interlynk](https://www.interlynk.io/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Check out my blog [Techy Blinder](https://www.techyblinder.com/)
 
 - 💬 Ask me about **Web development, React, Coding tips & tricks that help you to boost your productivity**
 
